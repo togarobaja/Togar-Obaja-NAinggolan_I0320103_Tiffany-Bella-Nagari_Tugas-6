@@ -8,3 +8,4 @@ for i in range(10,25):
         print(str(i)+ " adalah bilangan prima")
     else :
         print(str(i)+ " adalah bilangan bukan prima")
+print()
